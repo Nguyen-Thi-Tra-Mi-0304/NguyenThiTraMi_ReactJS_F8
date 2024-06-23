@@ -4,8 +4,8 @@
 - Các SPA khác: F8, Shoppe, 30Shine, chotot, zingmp3
 
 ## Cách triển khai 
-- SPA: Single-Page Application
-- MPA: Multi-Page Application
+- SPA: Single-Page Application -> CSR : Client Side Rendering 
+- MPA: Multi-Page Application -> SSR: Server Side Rendering
 
 ## Sự khác biệt 
 
